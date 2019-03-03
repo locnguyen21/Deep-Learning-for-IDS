@@ -1,4 +1,4 @@
-# Deep-Learning-for-IDS-
+# Deep-Learning-for-IDS
 
 Bài tập lớn môn Phòng thủ mạng máy tính sử dụng tập dữ liệu NSL_KDD
 
